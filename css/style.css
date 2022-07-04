@@ -1,0 +1,5 @@
+.navbar-nav {
+    --bs-nav-link-color: rgb(255 255 255);
+    --bs-nav-link-hover-color: rgb(255 255 255);
+    --bs-nav-link-disabled-color: rgb(255 255 255);
+}
